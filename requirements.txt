@@ -1,0 +1,6 @@
+numpy
+xarray
+setuptools
+pyparsing
+netCDF4
+schemaorg
