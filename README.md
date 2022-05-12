@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMGeO-Collaboration/Earthcube-Schema-Workshop-2022.git/HEAD?labpath=sample_schema.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMGeO-Collaboration/Earthcube-Schema-Workshop-2022.git/HEAD?labpath=schema_amgeo.ipynb)
