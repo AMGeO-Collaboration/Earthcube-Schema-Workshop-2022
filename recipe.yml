@@ -5,7 +5,7 @@ schemas:
           - name
           - spatialCoverage
           - temporalCoverage
-          - variableMeasured: PropertyValue
+          - variableMeasured
           - url
       recommended:
           - version
